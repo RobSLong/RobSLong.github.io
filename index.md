@@ -8,7 +8,7 @@ geometry: margin=3cm
 # This is a heading
   
 
-<img src="./images/RL-photo.png" align="left" width="200px"/>
+<img src="./images/RL-photo.png" align="left" width="230px"/>
 
 Rob is a data scientist working within the UK defence sector and has an extensive background in planetary science and teaching. Rob is pursuing his passion for science communication, with the goal of making technical science more accessible to the general public.
 
