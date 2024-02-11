@@ -4,11 +4,7 @@ title: "Home"
 geometry: margin=3cm
 ---
 
-
-
-
-
-<img src="./images/RL-photo.png" align="left" width="200px"/>
+<img src="./images/RL-photo.png" align="left" width="170px"/>
 Rob is a data scientist working within the UK defence sector and has an extensive background in planetary science and teaching. Rob is pursuing his passion for science communication, with the goal of making technical science more accessible to the general public.
 
 He graduated from the University of Leeds with an MSc and PhD in fluid dynamics in 2020, his PhD work focused on numerical simulations of the fluid regions of planets and stars.
@@ -20,13 +16,6 @@ During his studies Rob led classes for undergraduate students and has co-supervi
 
 # This is a heading
   
-```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
-```
 
 
 
