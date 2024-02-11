@@ -1,4 +1,7 @@
-# Academic Journals
+---
+layout: default
+title: "Publications"
+---
 
 Long, R.S., Mound, J.E., Davies, C.J. and Tobias, S.M., 2020. Scaling behaviour in spherical shell rotating convection with fixed-flux thermal boundary conditions. _Journal of Fluid Mechanics, 889_, p.A7. [journal](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/scaling-behaviour-in-spherical-shell-rotating-convection-with-fixedflux-thermal-boundary-conditions/3814D98FFAD6DF668330CCAD11F73785) [free link](https://eprints.whiterose.ac.uk/155596/1/main.pdf)
 
