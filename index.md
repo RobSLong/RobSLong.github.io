@@ -14,18 +14,18 @@ Rob is a data scientist working within the UK defence sector and has an extensiv
 
 He graduated from the University of Leeds with an MSc and PhD in fluid dynamics in 2020, his PhD work focused on numerical simulations of the fluid regions of planets and stars. During his studies Rob led classes for undergraduate students and has co-supervised research projects. Over the last year, Rob has worked as a private tutor working with students who have difficulty with mainstream education, ages 5-18.
 
-<br clear="left"/>
-
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
+<div align="center">
+    <table >
+     <tr>
+        <td><b>Latest Tweets</b></td>
+        <td><b>daily.dev</b></td>
+     </tr>
+     <tr>
+       <td><a href="https://twitter.com/sunilsapkota09"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=sunilsapkota09" alt="sunil sapkota twitter" > </img></a></td>
+        <td> <a href="https://app.daily.dev/sunil-9"><img src="https://api.daily.dev/devcards/426421ecec8c4819927d5698b72edced.png?r=5tr" width="400" alt="sunil sapkota's Dev Card"/></a></td>
+     </tr>
+    </table>
+    </div>
 
 
 
