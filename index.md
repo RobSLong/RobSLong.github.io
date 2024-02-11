@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Home"
+geometry: margin=3cm
 ---
 
 
