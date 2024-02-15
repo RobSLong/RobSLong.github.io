@@ -4,7 +4,7 @@ title: "Publications"
 ---
 
 
-Rob spent 4 years on his PhD reseach in Planetary Fluid Dynamics and Rotating Convection. This work was presented at conferences and published in academic journals between 2017 and 2020. A summary of key contributions is given here;
+My PhD reseach in Planetary Fluid Dynamics and Rotating Convection was published in academic journals and presented at conferences and seminars between 2017 and 2020. At present, my publications have amassed over 50 citations [Google Scholar](). I was awarded a presentation award at the [_American Geophysical Union](https://www.agu.org/) (AGU)_ 2019 Meeting in San Francisco.
 
 
 ## Journal Publications
