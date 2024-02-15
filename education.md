@@ -1,4 +1,7 @@
-# Teaching 
+---
+layout: page
+title: "Teaching"
+---
 
 I have developed an extensive track record of teaching across all levels from primary education through to postgraduate level across a wide range of subjects. I have 4 years of experience teaching and marking undergraduate Mathematics courses (numerical methods, applied mathematical methods and Cosmology) and spent 1 year teaching Linux and Computational Methods at postgraduate level. I worked full time as a private tutor for students who struggled with mainstream education from 2021 to 2023, covering Mathematics, Sciences, English, Economics and History at KS2, KS3, GCSE and A-level. 
 
