@@ -4,7 +4,7 @@ title: "Publications"
 ---
 
 
-My PhD reseach in Planetary Fluid Dynamics and Rotating Convection was published in academic journals and presented at conferences and seminars between 2017 and 2020. At present, my publications have amassed over 50 citations [Google Scholar](https://scholar.google.co.uk/citations?user=qNOuy5EAAAAJ&hl=en&oi=ao). I was awarded a presentation award at the [_American Geophysical Union_](https://www.agu.org/) (AGU) 2019 Meeting in San Francisco.
+My PhD reseach in Planetary Fluid Dynamics and Rotating Convection was published in academic journals and presented at conferences and seminars between 2017 and 2020. At present, my publications have amassed over 50 citations [\[Google Scholar\]](https://scholar.google.co.uk/citations?user=qNOuy5EAAAAJ&hl=en&oi=ao). I was awarded a presentation award at the _American Geophysical Union_ (AGU) 2019 Meeting in San Francisco.
 
 
 ## Journal Publications
@@ -22,10 +22,10 @@ _Regimes and Scaling Laws for Convection with and without Rotation_ (Doctoral di
 - **Long, R.S.**, Mound, J.E., Davies, C.J. and Tobias, S., 2019, December. Regimes of Spherical Shell Rotating Convection with Fixed Flux Thermal Boundary Conditions. _In AGU Fall Meeting Abstracts_ (Vol. 2019, pp. NG43A-0915). **Outstanding Student Presentation Award**
 [\[abstract\]](https://ui.adsabs.harvard.edu/abs/2019AGUFMNG43A0915L/abstract)
 
-- **Long, R.S.**, Mound, J.E., Davies, C.J. and Tobias, S., 2018, July. Scaling Behaviour of Spherical Shell Rotating Convection. _Study of Earth's Deep Interior Symposium_, Edmonton, Canada. **Poster presentation**
+- **Long, R.S.**, Mound, J.E., Davies, C.J. and Tobias, S., 2018, July. Scaling Behaviour of Spherical Shell Rotating Convection. _Study of Earth's Deep Interior Symposium_, Edmonton, Canada. 
 [\[abstract\]](https://sedi2018.sciencesconf.org/data/pages/S_6.pdf) [\[conference\]](https://sedi2018.sciencesconf.org/)
 
-- **Long, R.S.**, Mound, J.E., Davies, C.J. and Tobias, S., 2018, April. Identifyin Different Dynamical Regimes of Rotating Convection. _Computational Engineering and Control Seminar_, Leicester University, UK. **Invited departmental seminar**
+- **Long, R.S.**, Mound, J.E., Davies, C.J. and Tobias, S., 2018, April. Identifyin Different Dynamical Regimes of Rotating Convection. _Computational Engineering and Control Seminar_, Leicester University, UK. **Invited seminar**
 
 - **Long, R.S.**, 2019, March. Scaling Behaviour of Spherical Shell Rotating Convection with Fixed-Flux Thermal Boundary Conditions. _26 <sup>th</sup> Congre des Doctorants_, Institut de Physique de Globe de Paris. **Invited Presentation**
  
