@@ -4,7 +4,7 @@ title: "Publications"
 ---
 
 
-My PhD reseach in Planetary Fluid Dynamics and Rotating Convection was published in academic journals and presented at conferences and seminars between 2017 and 2020. At present, my publications have amassed over 50 citations [Google Scholar](). I was awarded a presentation award at the [_American Geophysical Union](https://www.agu.org/) (AGU)_ 2019 Meeting in San Francisco.
+My PhD reseach in Planetary Fluid Dynamics and Rotating Convection was published in academic journals and presented at conferences and seminars between 2017 and 2020. At present, my publications have amassed over 50 citations [Google Scholar](https://scholar.google.co.uk/citations?user=qNOuy5EAAAAJ&hl=en&oi=ao). I was awarded a presentation award at the [_American Geophysical Union_](https://www.agu.org/) (AGU) 2019 Meeting in San Francisco.
 
 
 ## Journal Publications
