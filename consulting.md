@@ -10,17 +10,11 @@ geometry: margin=3cm
 
 Summary here
 
-<img src="/images/RL-photo.png" align="left" width="100px"/> 
-
-Summary 2
 <br> 
 
 <br clear="left"/>
 
-
-
 <img src="/images/RL-photo.png" align="left" width="100px"/> 
-Data engineering is 
-<br clear="left"/>
+Data engineering is
 
 
