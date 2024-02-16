@@ -17,22 +17,30 @@ Summary here
 
 ### Data Engineering
 <img src="/images/RL-photo.png" align="left" width="100px"/> 
-**Data engineering** <br>
+**Data engineering** 
 provide best practice on
+<br>
+<br clear="left"/>
+<img src="/images/RL-photo.png" align="left" width="100px"/> 
+**Data engineering** 
+provide best practice on
+<br>
+<br clear="left"/>
 
 <img src="/images/RL-photo.png" align="left" width="100px"/> 
-**Data engineering** <br>
+**Data engineering** 
 provide best practice on
+<br>
+<br clear="left"/>
 
 <img src="/images/RL-photo.png" align="left" width="100px"/> 
-**Data engineering** <br>
+**Data engineering** 
 provide best practice on
+<br>
+<br clear="left"/>
 
 <img src="/images/RL-photo.png" align="left" width="100px"/> 
-**Data engineering** <br>
+**Data engineering** 
 provide best practice on
-
-<img src="/images/RL-photo.png" align="left" width="100px"/> 
-**Data engineering** <br>
-provide best practice on
-
+<br>
+<br clear="left"/>
