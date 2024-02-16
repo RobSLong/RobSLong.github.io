@@ -1,6 +1,5 @@
 ---
 layout: page
-title: ""
 geometry: margin=3cm
 ---
 
