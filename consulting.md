@@ -9,6 +9,7 @@ geometry: margin=3cm
 <img src="/images/RL-photo.png" align="left" width="100px"/> 
 
 Summary here
+<br> 
 
 <br clear="left"/>
 
