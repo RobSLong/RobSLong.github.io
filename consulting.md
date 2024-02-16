@@ -9,5 +9,5 @@ geometry: margin=3cm
 
 |a|b|
 |---|---|
-|1|2|
-|Image <img src="/images/RL-photo.png" align="left" width="300px"/>|see|
+|<img src="/images/RL-photo.png" align="left" width="300px"/> Data analytics is .. |see|
+|<img src="/images/RL-photo.png" align="left" width="300px"/> Data engineering is .. |see|
