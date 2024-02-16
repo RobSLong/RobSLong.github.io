@@ -12,7 +12,7 @@ some text floating around the image
 
 A "newline". This text doesn't float anymore, is left-aligned.
 
-<img src=="./images/RL-photo.png" width="200px"/>
+<img src="./images/RL-photo.png" width="200px"/>
 some text floating around the image
 
 <br clear="left"/>
