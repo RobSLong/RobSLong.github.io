@@ -15,7 +15,17 @@ A "newline". This text doesn't float anymore, is left-aligned.
 
 <img src="/images/RL-photo.png" align="left" width="100px"/> 
 
-<img src="/images/RL-photo.png" align="left" width="100px"/> Data analytics is .. </br>
+<br clear="left"/>
 
-<img src="/images/RL-photo.png" align="left" width="100px"/> Data cloud is .. </br>
+A "newline". This text doesn't float anymore, is left-aligned.
+
+<img src="/images/RL-photo.png" align="left" width="100px"/> 
+
+
+<br clear="left"/>
+
+A "newline". This text doesn't float anymore, is left-aligned.
+
+<img src="/images/RL-photo.png" align="left" width="100px"/> 
+
 
