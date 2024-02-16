@@ -1,11 +1,9 @@
 ---
 layout: page
+title: "Home"
 geometry: margin=3cm
 ---
 
-
-# Data Engineering \| Data Analytics \| Numerical Analysis \| Teaching
-  
 
 <img src="./images/RL-photo.png" align="left" width="300px"/>
 
