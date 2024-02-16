@@ -5,7 +5,7 @@ geometry: margin=3cm
 ---
 
 
-# This is a heading
+# Data Engineering \| Data Analytics \| Numerical Analysis \| Teaching
   
 
 <img src="./images/RL-photo.png" align="left" width="300px"/>
