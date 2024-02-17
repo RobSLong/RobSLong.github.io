@@ -8,7 +8,7 @@ As a data engineering and data consultant, I can help you translate data into va
 
 I am experienced in machine learning, managing the data lifecycle, developing proof of concepts in Microsoft Azure and using data visualization techniques to present the results.
 
-<img src="/images/analytics-consulting.png" align="left" width="100px"/> 
+<img src="/images/analytics-consulting.png" align="left" width="150px"/> 
 **Data Analytics** <br>
 I can get more value from your data by using machine learning techniques and predictive modelling to support future decision making.
 <br>
@@ -26,7 +26,7 @@ I give advice and coaching on best practices for setting-up and maintaining data
 <br>
 <br clear="left"/>
 
-<img src="/images/de-consulting1.png" align="left" width="170px"/> 
+<img src="/images/de-consulting1.png" align="left" width="150px"/> 
 **Data engineering** <br>
 provide best practice on
 <br>
@@ -39,7 +39,7 @@ I am specialised in analysing data and clearly presenting results, trends and re
 <br clear="left"/>
 
 
-<img src="/images/dashboard-consulting.png" align="left" width="170px"/> 
+<img src="/images/dashboard-consulting.png" align="left" width="150px"/> 
 &nbsp; **Dashboards** <br>
 &nbsp; Dashboards show the most up-to-date results in an interactive format. Dashboards enable you to drill down into your data to examine patterns and trends for yourself.
 <br>
