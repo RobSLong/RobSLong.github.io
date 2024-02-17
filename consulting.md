@@ -32,15 +32,11 @@ provide best practice on
 <br>
 <br clear="left"/>
 
-<img src="/images/RL-photo.png" align="left" width="100px"/> 
-**Data Analysis** <br>
-I am specialised in analysing data and clearly presenting results, trends and recommendations as report-ready visualisations.
-<br>
-<br clear="left"/>
-
-
 <img src="/images/dashboard-consulting.png" align="left" width="150px"/> 
-&nbsp; **Dashboards** <br>
-&nbsp; Dashboards show the most up-to-date results in an interactive format. Dashboards enable you to drill down into your data to examine patterns and trends for yourself.
+&nbsp; **Data Analysis and Dashboards** <br>
+&nbsp; I am specialised in analysing data and clearly presenting results, trends and recommendations as report-ready visualisations and interactive dashboards.
 <br>
 <br clear="left"/>
+
+
+
