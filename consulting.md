@@ -13,7 +13,8 @@ I am experienced in machine learning, managing the data lifecycle, developing pr
 I can get more value from your data by using machine learning techniques and predictive modelling to support future decision making.
 <br>
 <br clear="left"/>
-<img src="/images/RL-photo.png" align="left" width="100px"/> 
+<img src="cloud-consulting.png" align="left" width="100px"/> 
+
 **Azure Data and AI Solutions**  <br>
 provide best practice on
 <br>
