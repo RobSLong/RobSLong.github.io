@@ -26,13 +26,14 @@ I give advice and coaching on best practices for setting-up and maintaining data
 <br clear="left"/>
 
 <img src="/images/RL-photo.png" align="left" width="100px"/> 
-**Data engineering** 
+**Data engineering** <br>
 provide best practice on
 <br>
 <br clear="left"/>
 
 <img src="/images/RL-photo.png" align="left" width="100px"/> 
 **Data Analysis** 
+
 I am specialised in analysing data and clearly presenting results, trends and recommendations as report-ready visualisations.
 <br>
 <br clear="left"/>
