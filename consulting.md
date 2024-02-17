@@ -10,7 +10,7 @@ I am experienced in machine learning, managing the data lifecycle, developing pr
 
 <img src="/images/RL-photo.png" align="left" width="100px"/> 
 **Data Analytics** 
-provide best practice on
+I can get more value from your data by using machine learning techniques and predictive modelling to support future decision making.
 <br>
 <br clear="left"/>
 <img src="/images/RL-photo.png" align="left" width="100px"/> 
@@ -21,7 +21,7 @@ provide best practice on
 
 <img src="/images/RL-photo.png" align="left" width="100px"/> 
 **Advice and Coaching** 
-provide best practice on
+I give advice and coaching on best practices for setting-up and maintaining data solutions; including data quality and cleaning, data modelling, data pipelines, and beyond.
 <br>
 <br clear="left"/>
 
@@ -33,13 +33,13 @@ provide best practice on
 
 <img src="/images/RL-photo.png" align="left" width="100px"/> 
 **Data Analysis** 
-provide best practice on
+I am specialised in analysing data and clearly presenting results, trends and recommendations as report-ready visualisations.
 <br>
 <br clear="left"/>
 
 
 <img src="/images/RL-photo.png" align="left" width="100px"/> 
-**Dashbaords** 
-provide best practice on
+**Dashboards** 
+Dashboards show the most up-to-date results in an interactive format. Dashboards enable you to drill down into your data to examine patterns and trends for yourself.
 <br>
 <br clear="left"/>
