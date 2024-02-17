@@ -25,7 +25,7 @@ I give advice and coaching on best practices for setting-up and maintaining data
 <br>
 <br clear="left"/>
 
-<img src="/images/RL-photo.png" align="left" width="100px"/> 
+<img src="/images/consulting-de.png" align="left" width="170px"/> 
 **Data engineering** <br>
 provide best practice on
 <br>
