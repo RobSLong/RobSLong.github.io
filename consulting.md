@@ -14,7 +14,7 @@ I can get more value from your data by using machine learning techniques and pre
 <br>
 <br clear="left"/>
 <img src="/images/cloud-consulting1.png" align="left" width="150px"/> 
-
+&nbsp; &nbsp; &nbsp;
 **Azure Data and AI Solutions**  <br>
 provide best practice on
 <br>
