@@ -17,12 +17,18 @@ Summary here
 
 ### Data Engineering
 <img src="/images/RL-photo.png" align="left" width="100px"/> 
-**Data engineering** 
+**Data Analytics** 
 provide best practice on
 <br>
 <br clear="left"/>
 <img src="/images/RL-photo.png" align="left" width="100px"/> 
-**Data engineering** 
+**Azure Data and AI Solutions** 
+provide best practice on
+<br>
+<br clear="left"/>
+
+<img src="/images/RL-photo.png" align="left" width="100px"/> 
+**Advice and Coaching** 
 provide best practice on
 <br>
 <br clear="left"/>
@@ -34,13 +40,14 @@ provide best practice on
 <br clear="left"/>
 
 <img src="/images/RL-photo.png" align="left" width="100px"/> 
-**Data engineering** 
+**Data Analysis** 
 provide best practice on
 <br>
 <br clear="left"/>
 
+
 <img src="/images/RL-photo.png" align="left" width="100px"/> 
-**Data engineering** 
+**Dashbaords** 
 provide best practice on
 <br>
 <br clear="left"/>
