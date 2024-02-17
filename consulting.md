@@ -39,8 +39,8 @@ I am specialised in analysing data and clearly presenting results, trends and re
 <br clear="left"/>
 
 
-<img src="/images/dashboard-consulting.png" align="left" width="100px"/> 
-**Dashboards** <br>
-Dashboards show the most up-to-date results in an interactive format. Dashboards enable you to drill down into your data to examine patterns and trends for yourself.
+<img src="/images/dashboard-consulting.png" align="left" width="170px"/> 
+&nbsp; **Dashboards** <br>
+&nbsp; Dashboards show the most up-to-date results in an interactive format. Dashboards enable you to drill down into your data to examine patterns and trends for yourself.
 <br>
 <br clear="left"/>
