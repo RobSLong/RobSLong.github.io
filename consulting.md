@@ -8,7 +8,7 @@ As a data engineering and data consultant, I can help you translate data into va
 
 I am experienced in machine learning, managing the data lifecycle, developing proof of concepts in Microsoft Azure and using data visualization techniques to present the results.
 
-<img src="/images/RL-photo.png" align="left" width="100px"/> 
+<img src="/images/analytics-consulting.png" align="left" width="100px"/> 
 **Data Analytics** <br>
 I can get more value from your data by using machine learning techniques and predictive modelling to support future decision making.
 <br>
