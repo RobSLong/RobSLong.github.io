@@ -20,7 +20,7 @@ provide best practice on
 <br>
 <br clear="left"/>
 
-<img src="/images/advise-consulting.png" align="left" width="100px"/> 
+<img src="/images/advising-consulting.png" align="left" width="100px"/> 
 **Advice and Coaching** <br>
 I give advice and coaching on best practices for setting-up and maintaining data solutions; including data quality and cleaning, data modelling, data pipelines, and beyond.
 <br>
