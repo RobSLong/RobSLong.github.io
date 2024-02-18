@@ -13,8 +13,16 @@ The case below is an example how to predict churn for recurring customers within
 <br>
 <br clear="left"/>
 
-<u><u> <b> Result:</b> </u> By using statistics, programming and machine learning techniques, I can find patterns hidden in the data. With this information I can make an algorithm, probability estimation or statistical model which you can use to make the right decisions. <br>
-<u> **Duration:** </u>   Project duration varies between 3 weeks – 2 months. The project starts by getting an understanding of the situation and gathering the right data. After collecting the right data, I start analyzing the data and share the results. Finally, I will make the algorithm or model which you can implement in your business.
+---
+
+<img src="/images/example-goal.png" align="left" width="80px"/> &nbsp; By using statistics, programming and machine learning techniques, I can find patterns hidden in the data. With this information I can make an algorithm, probability estimation or statistical model which you can use to make the right decisions. 
+<br>
+<br clear="left"/>
+
+
+<img src="/images/example-goal.png" align="left" width="80px"/> &nbsp; Project duration varies between 3 weeks – 2 months. The project starts by getting an understanding of the situation and gathering the right data. After collecting the right data, I start analyzing the data and share the results. Finally, I will make the algorithm or model which you can implement in your business.
+<br>
+<br clear="left"/>
 
 
 | Goal | Result | Duration |
