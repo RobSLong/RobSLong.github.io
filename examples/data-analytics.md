@@ -8,23 +8,20 @@ Data analytics distinguishes itself from data analysis because it tells you what
 
 The case below is an example how to predict churn for recurring customers within an electricity company.
 
+---
+
 <img src="/images/example-goal.png" align="left" width="80px"/> 
 &nbsp; How can we make a recommendation system? How can we categorize our customers? How can <br> &nbsp; we identify objects based on specific characteristics? These types of questions (and many more)<br> &nbsp; can be answered by using data analytics techniques.
 <br>
 <br clear="left"/>
 
+<img src="/images/example-goal.png" align="left" width="80px"/> &nbsp; By combining statistics, machine learning techniques and programming, I can find patterns hidden in data. With this information I can build an algorithm, statistical model or data applicaton which you can exploit to make the right decisions. 
+<br>
+<br clear="left"/>
+
+
+<img src="/images/example-goal.png" align="left" width="80px"/> &nbsp; Project duration varies between 2 weeks – 2 months. The project starts by gaining an understanding of the business and data requirements. After collecting the right data, I start analysis and share the results before delivering a fully documented solution (typically consisting of an algoritm or model).
+<br>
+<br clear="left"/>
+
 ---
-
-<img src="/images/example-goal.png" align="left" width="80px"/> &nbsp; By using statistics, programming and machine learning techniques, I can find patterns hidden in the data. With this information I can make an algorithm, probability estimation or statistical model which you can use to make the right decisions. 
-<br>
-<br clear="left"/>
-
-
-<img src="/images/example-goal.png" align="left" width="80px"/> &nbsp; Project duration varies between 3 weeks – 2 months. The project starts by getting an understanding of the situation and gathering the right data. After collecting the right data, I start analyzing the data and share the results. Finally, I will make the algorithm or model which you can implement in your business.
-<br>
-<br clear="left"/>
-
-
-| Goal | Result | Duration |
-|--- | --- | --- |
-|a | b | c |
