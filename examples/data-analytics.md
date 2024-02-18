@@ -18,6 +18,6 @@ The case below is an example how to predict churn for recurring customers within
 <br clear="left"/>
 
 
-<img src="/images/example-duration.png" align="left" width="80px"/> &nbsp; Project duration varies between 2 weeks – 2 months. The project starts by gaining an understanding <br> &nbsp; of the business and data requirements. After collecting the right data, I start analysis and share the results before delivering a fully documented solution (typically consisting of an algoritm or model).
+<img src="/images/example-duration.png" align="left" width="80px"/> &nbsp; Project duration varies between 2 weeks – 2 months. The project starts by gaining an understanding <br> &nbsp; of the business and data requirements. After collecting the right data, I start analysis and share the <br> &nbsp; results  before delivering a fully documented solution (typically consisting of an algoritm or model).
 
 ---
