@@ -11,6 +11,7 @@ I am experienced in machine learning, managing the data lifecycle, developing pr
 <img src="/images/analytics-consulting1.png" align="left" width="150px"/> 
 &nbsp; &nbsp; **Data Analytics** <br>
 I can get more value from your data by using machine learning techniques and predictive modelling to support future decision making.
+[example](./examples/data-analytics.md)
 <br>
 <br clear="left"/>
 <img src="/images/cloud-consulting1.png" align="left" width="150px"/> 
