@@ -23,7 +23,7 @@ I can provide advice and hands-on support in planning, deploying and configuring
 
 <img src="/images/advising-consulting.png" align="left" width="100px"/> 
 **Advice and Coaching** <br>
-I give advice and coaching on best practices for the set-up and maintenance of data projects. I can help guide teams on data engineering (data quality, data modelling, data pipelines), data analytics (machine learning, data visualisation, monitoring) and processes such as documentation and AGILE working.
+I give advice and coaching on best practices for the set-up and maintenance of data projects. I can help guide teams on data engineering (data quality, modelling, pipelines), data analytics (machine learning, data visualisation, monitoring) and processes such as documentation and AGILE working.
 <br clear="left"/>
 
 <img src="/images/de-consulting1.png" align="left" width="100px"/> 
