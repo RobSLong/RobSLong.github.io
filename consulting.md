@@ -11,7 +11,7 @@ I am experienced in machine learning, managing the data lifecycle, developing pr
 <img src="/images/analytics-consulting1.png" align="left" width="100px"/> 
 **Data Analytics** <br>
 I can get more value from your data by applying machine learning techniques and predictive modelling. By aquiring actionable insights  from the data I can help support future decision making. I can help solve business problems using a combination of numerical analysis, text analytics and image analysis.
-[(example)](./examples/data-analytics.md)
+[\(example\)](./examples/data-analytics.md)
 <br>
 <br clear="left"/>
 
