@@ -32,7 +32,7 @@ provide best practice on
 <br>
 <br clear="left"/>
 
-<img src="/images/dashboard-consulting.png" align="left" width="150px"/> 
+<img src="/images/dashboard-consulting.png" align="left" width="100px"/> 
 **Data Analysis and Dashboards** <br>
 I am specialised in analysing data and clearly presenting results, trends and recommendations as report-ready visualisations and interactive dashboards. The core technologies I use for this type of work are Python (matplotlib, Streamlit, etc.) and PowerBI.
 <br>
