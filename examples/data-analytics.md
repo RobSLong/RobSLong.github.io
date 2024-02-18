@@ -9,7 +9,7 @@ Data analytics distinguishes itself from data analysis because it tells you what
 The case below is an example how to predict churn for recurring customers within an electricity company.
 
 <img src="/images/example-goal.png" align="left" width="80px"/> 
-&nbsp; How can we make a recommendation system? How can we categorize our customers? How can we identify objects based on specific characteristics? These types of questions (and many more) can be answered by using data analytics techniques.
+&nbsp; How can we make a recommendation system? How can we categorize our customers? How can &nbsp; we identify objects based on specific characteristics? These types of questions (and many more) can be answered by using data analytics techniques.
 <br>
 <br clear="left"/>
 
