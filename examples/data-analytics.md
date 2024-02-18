@@ -9,7 +9,6 @@ Data analytics distinguishes itself from data analysis because it tells you what
 The case below is an example how to predict churn for recurring customers within an electricity company.
 
 ---
-
 <img src="/images/example-goal.png" align="left" width="80px"/> 
 &nbsp; How can we make a recommendation system? How can we categorize our customers? How can <br> &nbsp; we identify objects based on specific characteristics? These types of questions (and many more)<br> &nbsp; can be answered by using data analytics techniques.
 <br>
@@ -23,5 +22,4 @@ The case below is an example how to predict churn for recurring customers within
 <img src="/images/example-duration.png" align="left" width="80px"/> &nbsp; Project duration varies between 2 weeks – 2 months. The project starts by gaining an understanding of the business and data requirements. After collecting the right data, I start analysis and share the results before delivering a fully documented solution (typically consisting of an algoritm or model).
 <br>
 <br clear="left"/>
-
 ---
