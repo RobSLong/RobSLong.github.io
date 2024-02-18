@@ -9,15 +9,15 @@ As a data engineering and data consultant, I can help you translate data into va
 I am experienced in machine learning, managing the data lifecycle, developing proof of concepts in Microsoft Azure and using data visualization techniques to present the results.
 
 <img src="/images/analytics-consulting1.png" align="left" width="100px"/> 
-&nbsp; **Data Analytics** <br>
-&nbsp; I can get more value from your data by applying machine learning techniques and predictive modelling to aquire actionable insights and support future decision making. I have expertise in multimedia data, including but not limited to numerical analysis, text analytics and image analysis.
+**Data Analytics** <br>
+I can get more value from your data by applying machine learning techniques and predictive modelling. By aquiring actionable insights  from the data I can help support future decision making. I can help solve business problems using a combination of numerical analysis, text analytics and image analysis.
 [example](./examples/data-analytics.md)
 <br>
 <br clear="left"/>
 
 <img src="/images/cloud-consulting1.png" align="left" width="100px"/> 
-&nbsp; **Azure Data and AI Solutions**  <br>
-&nbsp; I can provide advice and hands-on support in planning, deploying and configuring data and AI infrastructure. My key expertise in centred on building proof-of-concept data demonstrations within the Azure ecosystem for data management, exploitation and multimedia AI capabilities. I can guide and review relevant documentation for using cloud.
+**Azure Data and AI Solutions**  <br>
+I can provide advice and hands-on support in planning, deploying and configuring data and AI infrastructure. My key expertise in centred on building proof-of-concept data demonstrations within the Azure ecosystem for data management, exploitation and multimedia AI capabilities.
 <br>
 <br clear="left"/>
 
