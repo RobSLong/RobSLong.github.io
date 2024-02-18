@@ -14,12 +14,11 @@ The case below is an example how to predict churn for recurring customers within
 <br>
 <br clear="left"/>
 
-<img src="/images/example-result.png" align="left" width="80px"/> &nbsp; By combining statistics, machine learning techniques and programming, I can find patterns hidden in data. With this information I can build an algorithm, statistical model or data applicaton which you can exploit to make the right decisions. 
+<img src="/images/example-result.png" align="left" width="80px"/> &nbsp; By combining statistics, machine learning techniques and programming, I can find patterns <br> &nbsp; hidden in data. With this information I can build an algorithm, statistical model or data application which <br> &nbsp; you can exploit to make the right decisions. 
 <br>
 <br clear="left"/>
 
 
-<img src="/images/example-duration.png" align="left" width="80px"/> &nbsp; Project duration varies between 2 weeks – 2 months. The project starts by gaining an understanding of the business and data requirements. After collecting the right data, I start analysis and share the results before delivering a fully documented solution (typically consisting of an algoritm or model).
-<br>
-<br clear="left"/>
+<img src="/images/example-duration.png" align="left" width="80px"/> &nbsp; Project duration varies between 2 weeks – 2 months. The project starts by gaining an <br> &nbsp; understanding of the business and data requirements. After collecting the right data, I start <br> &nbsp; analysis and share the results before delivering a fully documented solution (typically consisting of <br> &nbsp; an algoritm or model).
+
 ---
