@@ -10,7 +10,7 @@ The case below is an example how to predict churn for recurring customers within
 
 ---
 <img src="/images/example-goal.png" align="left" width="80px"/> 
-&nbsp; How can we make a recommendation system? How can we categorize our customers? How can we &nbsp; identify objects based on specific characteristics? These types of questions (and many more)<br> &nbsp; can be answered by using data analytics techniques.
+&nbsp; How can we make a recommendation system? How can we categorize our customers? How can we &nbsp; identify objects based on specific characteristics? These types of questions (and many more) can be answered by using data analytics techniques.
 <br clear="left"/>
 
 <img src="/images/example-result.png" align="left" width="80px"/> &nbsp; By combining statistics, machine learning techniques and programming, I can find patterns hidden in data. With this information I can build an algorithm, statistical model or data application which you can exploit to make the right decisions. 
