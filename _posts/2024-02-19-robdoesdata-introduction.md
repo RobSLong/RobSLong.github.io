@@ -12,7 +12,7 @@ Hi, I'm Rob (also known as @RobDoesData) and this is my first blog post! I am cu
 
 | <img src="/images/blogs/robdoesdata-intro.png" alt="caption"> |
 |:--:| 
-| *Space* |
+| (left) Me with my rotating convection experiment _Calimero_ at UCLA. (right) Internationally invited speakers for the IPGP conference in Paris |
 
 **So how did I get in to data?**
 Post covid, I really didn't know what I was going to do for work but knew that it was time to go into industry. While I hadn't had any formal education in computer science, I had been responsible for managing my own data during my academic research (at the time I didn't know what ETL was but I had been doing it) and built my own machine learning and data visualisation tools in Python. Data science and data engineering seemed liked  alogical fit so I took the plunge and just a year later I am leading small teams of data analysts. I have had a blast over the last year, rapidly developing my knowledge of databases, AI and cloud/platform engineering.
