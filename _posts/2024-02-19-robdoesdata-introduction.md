@@ -10,7 +10,7 @@ Hi, I'm Rob (also known as @RobDoesData) and this is my first blog post! I am cu
 
 **Where did it all begin?** Back in my school days, I was just never really that into it and actually left school when I was a teenager with no qualifications. When I was around 16 I decided to go back into educationt to obtain my GCSEs at the local college and this is where I found my passion for maths and problem solving. Fast forward 6 years and I had completed my GCSEs, my A-levels, a Bachelors degree in Applied Maths and Theoretical Physics and was just starting an integrated Masters and PhD in Fluid Dynamics. For my masters project I investigated flood management by combining a tabletop demonstration model with a numerical algorithm I had developed to describe river flow. I used the demonstration at various public outreach events to engage and educate the general public on the science of extreme weather events and flooding. During my PhD work I got to run supercomputer simulations solving the equations describing fluid flow and publish my work in leading academic journals. As an added bonus, I got to travel all over the world presenting my work at conferences, spent a summer as a visiting researcher at UCLA and won a prestigious presentation award in San Francisco. I am very passionate about science communication and have been involved in various outreach events in which i took tehcnical concepts and made them accessible for a general audience.
 
-| <img src="/images/blogs/robdoesdata-intro.png" alt="caption"> |
+| <img src="/images/blogs/robdoesdata-intro.png" width="600" alt=""> |
 |:--:| 
 | (left) Me with my rotating convection experiment _Calimero_ at UCLA. (right) Internationally invited speakers for the IPGP conference in Paris |
 
