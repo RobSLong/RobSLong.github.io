@@ -5,7 +5,7 @@ geometry: margin=3cm
 ---
 
 
-<img src="./images/RL-photo.png" align="left" width="300px"/>
+<img src="./images/profile-photo-RL.png" align="left" width="300px"/>
 
 Rob is currently a Data Engineer working within the UK defence sector, specialising in migrating data engineering and analytics workloads to the cloud. Rob has 7+ years of experience in developing machine learning models using Python to solve complex problems across academia and industry. With a passion for STEM communication and mentoring, he has a proven ability to lead teams of data analysts, manage projects and communicate effectively with stakeholders.
 
