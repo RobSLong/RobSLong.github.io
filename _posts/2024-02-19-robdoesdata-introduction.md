@@ -5,6 +5,8 @@ layout: post
 categories: media
 ---
 
+| <img src="/images/blogs/2024-02-26-robdoesdata.png" width="600" alt=""> |
+
 About me!
 Hi, I'm Rob (also known as @RobDoesData) and this is my first blog post! I am currently working in the UK defence sector in the fuzzy overlapping zone of data engineering and data analytics. I specialise in developing proof-of-concept demonstrations covering all aspects of data and AI by using a combination of Python, PowerBI and most recently, Microsoft Azure. Before this I worked in academia where my research focused on geophysical and astrophysical fluid dynamics, more specifically developing simulations of Earth's core.
 
