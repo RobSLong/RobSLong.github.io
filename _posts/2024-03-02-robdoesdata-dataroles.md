@@ -16,7 +16,9 @@ This will likely ruffle some feathers
 <img src="/images/blogs/dataoverview.png" width="500">
 </p>
 
-The modern data team consists of two parts; governance and management, and the technical engineering and analytics.
+The modern data team consists of two parts; governance and management, and the technical engineering and analytics. 
+
+Business leaders all too often want to dive straight in to the latest and greatest AI - it is our responsibility as data professionals to communicate that this is a formula for failure. Data analytics, machine learning and artificial intelligence are all reliant on accurate, high quality data to really be useful and drive meaningful impact. Similarly, to ensure that you have good quality data, there must be high level data management protocols and standards established. This brings us on to the ultimate superhero team-up of <i> The Key Three </I> and <i> The Core Four </i>.
 
 ## The Key Three - governance and management
 Data management and governance strategy is a vital component in the modern data team. At a high level 
