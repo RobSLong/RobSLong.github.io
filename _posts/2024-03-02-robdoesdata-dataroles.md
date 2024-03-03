@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-<img src="/images/blogs/banners/blogs/2024-03-03-rolesdatateam.png">
+<img src="/images/blogs/banners/2024-03-03-rolesdatateam.png">
 
 ## Summary
 Business leaders all too often want to dive straight into the latest and greatest AI, but it is our responsibility as data professionals to communicate that this is a formula for failure. Data analytics, machine learning, and artificial intelligence are all reliant on having timely, accurate, high-quality data to drive meaningful impact. Similarly, to ensure that there is consistently good quality data, there must be high-level data management protocols and standards established within the organisation. 
