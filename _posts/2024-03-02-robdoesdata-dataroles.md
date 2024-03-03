@@ -40,7 +40,9 @@ The data analyst consumes the datasets prepared by the analytics engineer and ca
 The technical team is rounded out with the machine learning engineer. The MLE is responsible for all things mcahine learning, including building ML models and deploying them to production. The MLE is similarly technical to the data engineer but is much more specialised in machine learning. They understand how to properly train, advance and serve models ensuring scalability and proper monitoring.
 
 <p align="center">
-<img src="/images/blogs/corefour.png" width="500">
+
+<img src="/images/blogs/corefour.png" width="600">
+
 </p>
 
 ## What roles weren't included?
