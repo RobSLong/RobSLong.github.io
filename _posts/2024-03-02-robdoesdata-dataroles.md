@@ -1,5 +1,5 @@
 ---
-title:  "Roles on a data team"
+title:  "What Roles are needed on a Modern Data Team?"
 mathjax: true
 layout: post
 categories: media
@@ -7,18 +7,13 @@ categories: media
 
 <img src="/images/blogs/2024-02-26-robdoesdata.png">
 
-# Data Teams - the Core Four and the Key Three
-
-
 ## Summary
-This will likely ruffle some feathers
-<p align="center">
-<img src="/images/blogs/dataoverview.png" width="500">
-</p>
 
-The modern data team consists of two parts; governance and management, and the technical engineering and analytics. 
+Business leaders all too often want to dive straight in to the latest and greatest AI but it is our responsibility as data professionals to communicate that this is a formula for failure. Data analytics, machine learning and artificial intelligence are all reliant on having timely, accurate, high quality data to drive meaningful impact. Similarly, to ensure that you have consistently good quality data, there must be high-level data management protocols and standards established within the organisation. 
 
-Business leaders all too often want to dive straight in to the latest and greatest AI - it is our responsibility as data professionals to communicate that this is a formula for failure. Data analytics, machine learning and artificial intelligence are all reliant on accurate, high quality data to really be useful and drive meaningful impact. Similarly, to ensure that you have good quality data, there must be high level data management protocols and standards established. This brings us on to the ultimate superhero team-up of <i> The Key Three </I> and <i> The Core Four </i>.
+This brings us on to the ultimate superhero team-up of <i> <b> The Key Three </i> </b> who implement governance and management with the analytics and engineering team known as <i> <b> The Core Four</b>. </i>
+
+Let's dive in to what makes up the core roles of a data team and see which didn't make the cut!
 
 ## The Key Three - governance and management
 Data management and governance strategy is a vital component in the modern data team. At a high level 
@@ -48,12 +43,19 @@ The technical team is rounded out with the machine learning engineer. The MLE is
 <img src="/images/blogs/corefour.png" width="500">
 </p>
 
-# Closing thoughts
-I am sure some people will question, what about the data scientist role? In my view data scientist has always been a rather confusing role, those with the title did l,ittle to no experimentation and ultimately the data scientist is a non-specific job title which acts as a halfway house between the data analyst and machine learning engineer roles.
+## What roles weren't included?
+I am sure some people will question, what about the data scientist role? I have held the title of data scientist myself but in my view this has always been a rather confusing title. When comparing a "data scientist" with traditional scientists, you see that the amount of experimentation they do makes up such a small amount of the things they actually do. Data scientist is a non-specific job title which in most instances acts as a halfway house between the data analyst and machine learning engineer roles. In the modern data team this seems redundant. For more discussion on the topic I highly recommend checking out the following podcast.
+
+What about BI (business intelligence) roles? The first issue is that there is some confusion over the title, is there sufficient enough breadth to have so many different titles; BI developer, BI engineer and BI analyst? 
+
+The majority of responsibilities that fall under the various BI roles are shared with the data analyst role. So by not including these, it helps to have a more consistent and transparent disrtibution of responsbilities by role but to also add value back to the analyst role, which has been lacking.
+
+## Closing thoughts
 
 The current data landscape is thriving with engineering and analytic workloads being matured to the point that we can discuss the pros and cons of data team makeup and structure. Well defined roles and responsibilities allows teams to efficiently recruit new staff and for teams to quickly identify specialists within their organisation. 
 
 I believe the combination of the core four roles for the technical component and the key three of the management component provides a useful outline for data strategists to use when planning their data teams.
+
 
 
 
