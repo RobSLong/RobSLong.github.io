@@ -5,10 +5,10 @@ layout: post
 categories: media
 ---
 
-<img src="/images/blogs/2024-02-26-robdoesdata.png">
+<img src="/images/banners/blogs/2024-03-03-rolesdatateam.png">
 
 ## Summary
-Business leaders all too often want to dive straight into the latest and greatest AI, but it is our responsibility as data professionals to communicate that this is a formula for failure. Data analytics, machine learning, and artificial intelligence are all reliant on having timely, accurate, high-quality data to drive meaningful impact. Similarly, to ensure that you have consistently good quality data, there must be high-level data management protocols and standards established within the organisation. 
+Business leaders all too often want to dive straight into the latest and greatest AI, but it is our responsibility as data professionals to communicate that this is a formula for failure. Data analytics, machine learning, and artificial intelligence are all reliant on having timely, accurate, high-quality data to drive meaningful impact. Similarly, to ensure that there is consistently good quality data, there must be high-level data management protocols and standards established within the organisation. 
 
 This brings us to the ultimate superhero team-up of <i> <b> The Key Three </b> </i>  who implement governance and management with the analytics and engineering team known as <i> <b> The Core Four</b>. </i>
 
