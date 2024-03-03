@@ -11,7 +11,7 @@ categories: media
 
 Business leaders all too often want to dive straight in to the latest and greatest AI but it is our responsibility as data professionals to communicate that this is a formula for failure. Data analytics, machine learning and artificial intelligence are all reliant on having timely, accurate, high quality data to drive meaningful impact. Similarly, to ensure that you have consistently good quality data, there must be high-level data management protocols and standards established within the organisation. 
 
-This brings us on to the ultimate superhero team-up of <i> <b> The Key Three </i> </b> who implement governance and management with the analytics and engineering team known as <i> <b> The Core Four</b>. </i>
+This brings us on to the ultimate superhero team-up of <i> <b> The Key Three </b> </i>  who implement governance and management with the analytics and engineering team known as <i> <b> The Core Four</b>. </i>
 
 Let's dive in to what makes up the core roles of a data team and see which didn't make the cut!
 
@@ -46,9 +46,7 @@ The technical team is rounded out with the machine learning engineer. The MLE is
 ## What roles weren't included?
 I am sure some people will question, what about the data scientist role? I have held the title of data scientist myself but in my view this has always been a rather confusing title. When comparing a "data scientist" with traditional scientists, you see that the amount of experimentation they do makes up such a small amount of the things they actually do. Data scientist is a non-specific job title which in most instances acts as a halfway house between the data analyst and machine learning engineer roles. In the modern data team this seems redundant. For more discussion on the topic I highly recommend checking out the following podcast.
 
-What about BI (business intelligence) roles? The first issue is that there is some confusion over the title, is there sufficient enough breadth to have so many different titles; BI developer, BI engineer and BI analyst? 
-
-The majority of responsibilities that fall under the various BI roles are shared with the data analyst role. So by not including these, it helps to have a more consistent and transparent disrtibution of responsbilities by role but to also add value back to the analyst role, which has been lacking.
+What about BI (business intelligence) roles? The first issue is that there is some confusion over the title, is there sufficient enough breadth to have so many different titles; BI developer, BI engineer and BI analyst? The majority of responsibilities that fall under the various BI roles are shared with the data analyst role. So by not including these, it helps to have a more consistent and transparent disrtibution of responsbilities by role but to also add value back to the analyst role, which has been lacking.
 
 ## Closing thoughts
 
