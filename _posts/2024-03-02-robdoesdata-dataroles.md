@@ -38,11 +38,11 @@ The data analyst consumes the datasets prepared by the analytics engineer and ca
 
 The technical team is rounded out by the machine learning engineer. The MLE is responsible for all things machine learning, including building ML models and deploying them to production. The MLE is similarly technical to the data engineer but is much more specialised in machine learning. They understand how to properly train, advance, and serve models ensuring scalability and proper monitoring.
 
-<p align="center">
 
-<img src="/images/blogs/corefour.png" width="600">
-
+<p align="center" width="100%">
+    <img width="60%" src="/images/blogs/corefour.png">
 </p>
+
 
 ## What roles weren't included?
 I am sure some people will question, what about the data scientist's role? I have held the title of data scientist myself but in my view, this has always been a rather confusing title. When comparing a "data scientist" with traditional scientists, you see that the amount of experimentation they do makes up such a small amount of the things they actually do. Data scientist is a non-specific job title that in most instances acts as a halfway house between the data analyst and machine learning engineer roles. In the modern data team, this seems redundant. For more discussion on the topic I highly recommend checking out the following podcast.
