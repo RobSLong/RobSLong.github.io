@@ -24,7 +24,7 @@ The data steward works closely with the data owner and is more involved with mon
 The final member of the Key Three is the data architect. The architect is the most technical of the three and is responsible for designing and maintaining the data infrastructure in line with the policies and standards outlined above. In addition to the infrastructure, the architect creates high-level designs for data flows, schema, and storage in alignment with the data governance strategy.
 
 <p align="center">
-<img src="/images/blogs/keythree.png" width="700">
+<img src="/images/blogs/keythree.png">
 </p>
 
 ## The Core Four - engineering and analytics
@@ -40,7 +40,7 @@ The technical team is rounded out by the machine learning engineer. The MLE is r
 
 
 <p align="center" width="100%">
-    <img width="60%" src="/images/blogs/corefour.png">
+    <img src="/images/blogs/corefour.png">
 </p>
 
 
