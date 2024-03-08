@@ -1,4 +1,4 @@
-**---
+---
 layout: page
 title: "Azure Data and AI"
 geometry: margin=3cm
@@ -6,19 +6,19 @@ geometry: margin=3cm
 
 Data analytics distinguishes itself from data analysis because it tells you what to do and what the result will be. Where data analysis gives you information about the current situation, data analytics makes predictions and tells you what the result would be by taking a certain action. In other words: data analysis focuses on the past and current situation, data analytics focuses on the future.
 
-The case below is an example of taking a proposal and creating a minimal-viable-product to implement the solution in Microsoft Azure.
+The case below is an example how to predict churn for recurring customers within an electricity company.
 
 ---
-<img src="/images/example-goal.png" align="left" width="80px"/> 
-&nbsp; How can we make a recommendation system? How can we categorize our customers? How can we <br> &nbsp; identify objects based on specific characteristics? These types of questions (and many more) can be <br> &nbsp; answered by using data analytics techniques.
+
+<img src="/images/goal.png" align="left" width="100px"/> 
+How can we make a recommendation system? How can we categorize our customers? How can we identify objects based on specific characteristics? These types of questions (and many more) can be answered by using data analytics techniques.
 <br clear="left"/>
 
-<img src="/images/example-result.png" align="left" width="80px"/> &nbsp; By combining statistics, machine learning techniques and programming, I can find patterns hidden in <br> &nbsp; data. With this information I can build an algorithm, statistical model or data application which you <br> &nbsp; can exploit to make the right decisions. 
+<img src="/images/result.png" align="left" width="100px"/> By combining statistics, machine learning techniques and programming, I can find patterns hidden in data. With this information I can build an algorithm, statistical model or data application which you can exploit to make the right decisions. 
 <br>
 <br clear="left"/>
 
-
-<img src="/images/example-duration.png" align="left" width="80px"/> &nbsp; Project duration varies between 2 weeks – 2 months. The project starts by gaining an understanding <br> &nbsp; of the business and data requirements. After collecting the right data, I start analysis and share the <br> &nbsp; results  before delivering a fully documented solution (typically consisting of an algoritm or model).
+<img src="/images/duration.png" align="left" width="100px"/>  Project duration varies between 2 weeks – 2 months. The project starts by gaining an understanding  of the business and data requirements. After collecting the right data, I start analysis and share the results  before delivering a fully documented solution (typically consisting of an algoritm or model).
 
 ---
 
@@ -34,5 +34,4 @@ Now, the is a clear distinction between job salaries in the city that Company X 
 
 ## Evaluating success
 The machine learning (regression) model was packaged up as a code repository and delivered to Company X along with a set of documentation outlining how to use and maintain the code. The monitoring module allowed Company X to observe an increase in applicants for their senior positions from 1 applicant a week to 6. Furthermore, the company have successfully used this model to calculate the starting salary for more recent job vacancies.
-data analytics techniques.
-<br clear="left"/>
+
