@@ -4,25 +4,28 @@ title: "Azure Data and AI"
 geometry: margin=3cm
 ---
 
+More data teams than ever before are experimenting with cloud services to carry out their data, machine learning and artificial intelligence needs. Microsoft Azure is one of the big three cloud providers with offerings covering data storage, transformation and management, and a multitude of AI services including text analytics and image analysis. 
 Data analytics distinguishes itself from data analysis because it tells you what to do and what the result will be. Where data analysis gives you information about the current situation, data analytics makes predictions and tells you what the result would be by taking a certain action. In other words: data analysis focuses on the past and current situation, data analytics focuses on the future.
 
-The case below is an example how to predict churn for recurring customers within an electricity company.
+The case below is an example of how I architected a secure data lake solution with logical separations for the different business departments.
 
 ---
 
 <img src="/images/goal.png" align="left" width="100px"/> 
-How can we make a recommendation system? How can we categorize our customers? How can we identify objects based on specific characteristics? These types of questions (and many more) can be answered by using data analytics techniques.
+How do we migrate our on-premises data solution to the cloud? Can we create a proof-of-concept demonstration to get buy-in from key stakeholders? How do we ensure our cloud solution is secure? These types of questions (and many more) can be answered with implemented solutions by working with me.
 <br clear="left"/>
 
-<img src="/images/result.png" align="left" width="100px"/> By combining statistics, machine learning techniques and programming, I can find patterns hidden in data. With this information I can build an algorithm, statistical model or data application which you can exploit to make the right decisions. 
+<img src="/images/result.png" align="left" width="100px"/> By exploiting my rich background in data engineering and analytics and recent experience in delivering cloud solutions, I can help architect and deploy proof-of-concept solutions in Microsoft Azure. This data infrastructure can then be used to exploit your data at scale in a secure manner.
 <br>
 <br clear="left"/>
 
-<img src="/images/duration.png" align="left" width="100px"/>  Project duration varies between 2 weeks – 2 months. The project starts by gaining an understanding  of the business and data requirements. After collecting the right data, I start analysis and share the results  before delivering a fully documented solution (typically consisting of an algoritm or model).
+<img src="/images/duration.png" align="left" width="100px"/>  Project duration varies between 2 weeks – 2 months. The project starts by gaining an understanding of the business and data requirements. After collecting the requirements, I start to document the target configuration and begin the appropriate stream of work; taking on an advisory or hands-on role as appropriate. The final delivery includes documentation outlining the configuration, relevant knowledge articles and a roadmap for future development.
 
 ---
 
-## Case - Why was company X not getting good candidates?
+## Case - Building a secure data lake
+Company X wanted to replace their on-premises data storage solution with a cloud hosted data lake. 
+
 The ability for a business to understand and forecast the job market is vital in being able to write good job postings which entice apropriately qualified candidates. A start-up company was putting together a new data team and had difficulty in attracting applicants for their senior level positions, despite being successful in recruiting junior staff.
 
 To address this problem, a dataset of the company's job postings as well as similar job postings from LinkedIn and Indeed was put together, combining job titles, job descriptions, techonologies, and salaries. In order to decide on the appropriate modelling technique, we need to understand how company X's postings compare to similar job postings.
