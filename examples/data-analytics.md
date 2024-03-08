@@ -14,11 +14,11 @@ The case below is an example how to predict churn for recurring customers within
 How can we make a recommendation system? How can we categorize our customers? How can we identify objects based on specific characteristics? These types of questions (and many more) can be answered by using data analytics techniques.
 <br clear="left"/>
 
-<img src="/images/result.png" align="left" width="80px"/> By combining statistics, machine learning techniques and programming, I can find patterns hidden in data. With this information I can build an algorithm, statistical model or data application which you can exploit to make the right decisions. 
+<img src="/images/result.png" align="left" width="100px"/> By combining statistics, machine learning techniques and programming, I can find patterns hidden in data. With this information I can build an algorithm, statistical model or data application which you can exploit to make the right decisions. 
 <br>
 <br clear="left"/>
 
-<img src="/images/duration.png" align="left" width="80px"/>  Project duration varies between 2 weeks – 2 months. The project starts by gaining an understanding  of the business and data requirements. After collecting the right data, I start analysis and share the results  before delivering a fully documented solution (typically consisting of an algoritm or model).
+<img src="/images/duration.png" align="left" width="100px"/>  Project duration varies between 2 weeks – 2 months. The project starts by gaining an understanding  of the business and data requirements. After collecting the right data, I start analysis and share the results  before delivering a fully documented solution (typically consisting of an algoritm or model).
 
 ---
 
