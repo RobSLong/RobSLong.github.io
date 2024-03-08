@@ -10,7 +10,7 @@ The case below is an example how to predict churn for recurring customers within
 
 ---
 
-<img src="/images/ex-goal.png" align="left" width="100px"/> 
+<img src="/images/goal.png" align="left" width="100px"/> 
 How can we make a recommendation system? How can we categorize our customers? How can we identify objects based on specific characteristics? These types of questions (and many more) can be answered by using data analytics techniques.
 <br clear="left"/>
 
