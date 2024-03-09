@@ -14,14 +14,14 @@ This brings us to the ultimate superhero team-up of <i> <b> The Key Three </b> <
 
 Let's dive into what makes up the core roles of a data team and see which didn't make the cut!
 
-## The Key Three - governance and management
-Data management and governance strategy are vital components of the modern data team. At a high level 
+## The Key Three - Data Governance and Management
+Data management and governance strategy are vital components of the modern data team. These and all underlying responsibilities are shared between the Key Three, consisting of the data owner, the data steward and the data architect.
 
-The data owner is typically a senior business leader responsible for specific data domains within the organisation. The data owner has the decision-making authority over respective datasets and must ensure data quality requirements and standards are defined and that privacy and security policies are followed. 
+The data owner is typically a senior business leader who is responsible for specific data domains within the organisation. The data owner has the decision-making authority over their respective datasets and must ensure data quality requirements and standards are robustly defined. Similarly, the data owner must ensure that a robust set of privacy and security policies are defined and followed. 
 
-The data steward works closely with the data owner and is more involved with monitoring data quality and compliance with policy. The data steward is often the "go-to" person for data-related questions within a specific data domain.
+The data steward works closely with the data owner but their involvement is more hands-on, they proactively monitor data quality and policy compliance. The data steward is often the "go-to" person for data-related questions within a specific data domain, acting as an interface between the tehnical team and the data owner.
 
-The final member of the Key Three is the data architect. The architect is the most technical of the three and is responsible for designing and maintaining the data infrastructure in line with the policies and standards outlined above. In addition to the infrastructure, the architect creates high-level designs for data flows, schema, and storage in alignment with the data governance strategy.
+The final member of the Key Three is the data architect. The architect is the most technical of the three and is responsible for designing and maintaining the data infrastructure in line with the policies and standards outlined by the data owner. In addition to infrastructure responsibilities, the architect creates high-level designs for data flows, schema, and storage in alignment with the data governance strategy.
 
 <p align="center">
 <img src="/images/blogs/keythree.png">
