@@ -22,13 +22,13 @@ I can provide advice and hands-on support in planning, deploying and configuring
 
 <img src="/images/advising-consulting.png" align="left" width="100px"/> 
 **Advice and Coaching** <br>
-I give advice and coaching on best practices for the set-up and maintenance of data projects. I can help guide teams on data engineering (data quality, modelling, pipelines), data analytics (machine learning, data visualisation, monitoring) and processes such as documentation and AGILE working. [\[example\]](./examples/data-coaching.md)
+I give advice and coaching on best practices for the set-up and maintenance of data projects. I can help guide teams on data engineering (data quality, modelling, pipelines), data analytics (machine learning, data visualisation, monitoring) and processes such as documentation and AGILE working. 
 <br>
 <br clear="left"/>
 
 <img src="/images/dashboard-consulting.png" align="left" width="100px"/> 
 **Data Analysis and Dashboards** <br>
-I am specialised in analysing data and clearly presenting results, trends and recommendations as report-ready visualisations and interactive dashboards. The core technologies I use for this type of work are Python (matplotlib, Streamlit, etc.) and PowerBI. [\[example\]](./examples/data-dashboards.md)
+I am specialised in analysing data and clearly presenting results, trends and recommendations as report-ready visualisations and interactive dashboards. The core technologies I use for this type of work are Python (matplotlib, Streamlit, etc.) and PowerBI. 
 <br>
 <br clear="left"/>
 
