@@ -24,17 +24,11 @@ How do we migrate our on-premises data solution to the cloud? Can we create a pr
 ---
 
 ## Case - Building a secure data lake
-Company X wanted to replace their on-premises data storage solution with a cloud hosted data lake. 
+Company X wanted to replace their on-premises data storage solution with a cloud hosted data lake. The team had a defined list of requirements that the new storage solution had to satisfy, including logical separation of data, a central hub to be queried by analysts and rigorous fine-grained access management.
 
-The ability for a business to understand and forecast the job market is vital in being able to write good job postings which entice apropriately qualified candidates. A start-up company was putting together a new data team and had difficulty in attracting applicants for their senior level positions, despite being successful in recruiting junior staff.
+The data team structure within Company X exploited a central team of data engineers which were responsible for ingesting and transforming data, delivering clean ready for analysis datasets which were queried by analysts which sat within their respective departments. To minimise the disruption to their overall team structure, I architected a solution which used discrete Azure storage accounts for the landing, bronze, silver and gold layers. This satisfied the base requirement of a robust cloud hosted data lake in which the data engineering team could apply their existing workflows. To accomodate the need for logical separation, each department had thier own gold layer storage account which segregated the data by department and ensured that access permissions could be robustly set so that each department's data was only accessible by their respective analysts.
 
-To address this problem, a dataset of the company's job postings as well as similar job postings from LinkedIn and Indeed was put together, combining job titles, job descriptions, techonologies, and salaries. In order to decide on the appropriate modelling technique, we need to understand how company X's postings compare to similar job postings.
-
-## Salary Comparison
-For the initial exploratory analysis I used _natural language processing_ to perform key-word analysis on the job titles and descriptions but found no distinguishable difference for the posts by Company X. Next, I built a regression machine learning model to estimate the salary as a function of number of years of experience and at first glance this also looked in order. Drilling down into the data, it became clear that there was a geographical bias in the data which required further salary data be collected.
-
-Now, the is a clear distinction between job salaries in the city that Company X is located vs. the average. Accounting for this difference gave actionable insights which were visualised and communicated back to company X.
+The data lake was made secure by restricting access from the public internet and ensuring all resources were behind a private endpoint that only IP addreses from an approved list were allowed access. The least-privilege model was followed, with role-based access control configured to ensure that data engineers and each set of data analysts had only the necessary permissions on each storage layer and data therein. 
 
 ## Evaluating success
-The machine learning (regression) model was packaged up as a code repository and delivered to Company X along with a set of documentation outlining how to use and maintain the code. The monitoring module allowed Company X to observe an increase in applicants for their senior positions from 1 applicant a week to 6. Furthermore, the company have successfully used this model to calculate the starting salary for more recent job vacancies.
-
+The new data lake created in Microsoft Azure was presented to Company X stakeholders and received formal acceptance and approval. I also delivered key documentation regarding the configuration, references to best practices and a set of Standard Operating Procedure documents. The data lake solution has been successfully used since delivery and there is ongoing work to extend their exploitation of cloud by implementing analytical workloads within Microsoft Azure.
