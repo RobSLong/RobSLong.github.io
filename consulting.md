@@ -16,7 +16,7 @@ I can get more value from your data by applying machine learning techniques and 
 
 <img src="/images/cloud-consulting1.png" align="left" width="100px"/> 
 **Azure Data and AI Solutions**  <br>
-I can provide advice and hands-on support in planning, deploying and configuring data and AI infrastructure. My key expertise in centred on building proof-of-concept data demonstrations within the Azure ecosystem for data management, exploitation and multimedia AI capabilities.
+I can provide advice and hands-on support in planning, deploying and configuring data and AI infrastructure. My key expertise in centred on building proof-of-concept data demonstrations within the Azure ecosystem for data management, exploitation and multimedia AI capabilities. [\[example\]](./examples/data-azure.md)
 <br>
 <br clear="left"/>
 
