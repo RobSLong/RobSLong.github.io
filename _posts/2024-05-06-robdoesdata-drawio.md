@@ -19,15 +19,14 @@ I use Draw.io as my go to tool for all of my data diagram needs; whether I need 
 ### ER diagrams
 Whether it is planning a new data storage solution or understanding the relationships between tables in an existing database, entity-relationship (ER) diagrams will always be prominent in data engineering. Draw.io has a dedicated suite of tabular elements and connectors, which are typically used in ER diagrams to represent the different types of relationships between tables (e.g., many-to-one). A simple example visualising a collection of tables which describe the training courses individuals have taken is shown in Figure 2. Draw.io not only provides access to the geometric components to make the diagram but also offers full customisation; both to the table structures and aesthetics (e.g., table colouring).
 
-
-<p>
-
-
-![image info](../images/drawio/drawio-er.png)
-<center>
+<p align="center">
+<img src="/images/blogs/drawio-er.png">
+  <center>
 <em>Figure 1: ER diagram </em>
 </center>
 </p>
+
+
 
 
 ### Data flow diagrams
