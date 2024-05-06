@@ -36,11 +36,9 @@ Whether it is planning a new data storage solution or understanding the relation
 The drag-and-drop experience in Draw.io enables data engineers to combine symbols (to represent data storage, etc.) with text blocks to interactively iterate the creation of data flow diagrams. The user can resize components or refactor the visualisation without having to delete content.
 
 
-<p>    
-
-
-![image info](../images/drawio/drawio-dataflow.png)
-<center>
+<p align="center">
+<img src="/images/blogs/drawio-dataflow.png">
+  <center>
 <em>Figure 2: Data flow diagram </em>
 </center>
 </p>
@@ -55,11 +53,9 @@ Data engineers use **architecture diagrams** to visually represent the structure
 To accurately depict the specific components of the data architecture, Draw.io includes official symbols from a wealth of providers, such as Microsoft. Figure 3 shows an architecture diagram for an ingestion and analytics workload using components within Microsoft Azure's cloud offering. Draw.io allows the user to add numerical labels to arrows, which indicate the order of actions on a given diagram.
 
 
-<p>
-
-
-![image info](../images/drawio/drawio-architecture.png)
-<center>
+<p align="center">
+<img src="/images/blogs/drawio-architecture.png">
+  <center>
 <em>Figure 3: Architecture diagram </em>
 </center>
 </p>
