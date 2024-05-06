@@ -1,4 +1,11 @@
+---
+title:  "Why use Drawio in data engineering?"
+mathjax: true
+layout: post
+categories: media
+---
 
+<img src="/images/blogs/banners/2024-05-06-drawio.png">
 
 
 # Summary
